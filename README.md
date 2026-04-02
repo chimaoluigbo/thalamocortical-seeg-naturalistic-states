@@ -273,8 +273,7 @@ Raw SEEG recordings cannot be shared due to patient privacy requirements (IRB #0
 - `grey_matter_contacts_all27.csv` — cortical grey matter contact classifications for all 27 subjects, generated using the **Brainstorm MATLAB toolbox** (Tadel et al. 2011; https://neuroimage.usc.edu/brainstorm). Tissue class and DKT atlas region labels were assigned by querying each contact's MNI coordinates against the DKT probabilistic atlas within Brainstorm.
 - `step6_statistics.csv` — authoritative pairwise statistics (73/252 significant)
 
-**Zenodo:** [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.XXXXXXX)
-*(DOI to be finalized upon public release — update before submission)*
+**Zenodo:** [https://doi.org/10.5281/zenodo.19392389](https://doi.org/10.5281/zenodo.19392389)
 
 Requests for de-identified data should be directed to the corresponding author.
 
@@ -286,7 +285,7 @@ Thalamic contact assignments used the **Saranathan et al. (2021)** high-resoluti
 
 > Saranathan M, Iglehart C, Monti M, Tourdias T & Rutt B. In vivo high-resolution structural MRI-based atlas of human thalamic nuclei. *Sci. Data* 8, 275 (2021).
 
-Atlas URL: [PLACEHOLDER — add URL before submission]
+Atlas download: Saranathan M, Iglehart C, Monti M, Tourdias T & Rutt B. Data for: In vivo structural MRI-based atlas of human thalamic nuclei (v4.3). Zenodo (2021). [https://doi.org/10.5281/zenodo.5499504](https://doi.org/10.5281/zenodo.5499504)
 
 ---
 
