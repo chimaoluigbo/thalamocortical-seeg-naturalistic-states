@@ -1,0 +1,25 @@
+# Requirements for:
+# "A low-dimensional thalamocortical state axis in humans"
+# Oluigbo et al., Children's National Hospital, Washington DC
+#
+# Python >= 3.9 recommended
+# Install with: pip install -r requirements.txt
+
+# Core numerical computing
+numpy>=1.24.0
+scipy>=1.10.0
+pandas>=2.0.0
+
+# Machine learning (PCA, z-scoring)
+scikit-learn>=1.3.0
+
+# Statistics (FDR correction, mixed-effects models)
+statsmodels>=0.14.0
+
+# Plotting and figure generation
+matplotlib>=3.7.0
+
+# EEG/SEEG signal processing
+# Required for steps 2-4: loading EDF files, resampling, filtering,
+# bipolar re-referencing
+mne>=1.4.0
